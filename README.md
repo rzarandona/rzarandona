@@ -24,20 +24,24 @@ Based in **Panabo City, Philippines (UTC+8)**. Open to remote opportunities, wit
 ### WooCommerce Variation-Gallery Import Add-on
 Developed an add-on connecting WP All Import with WooCommerce variation galleries. Implemented import callbacks to update image metadata and avoid duplicate attachments.
 
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/WP%20All%20Import-24292F" alt="WP All Import" />
+<p>
+	<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+	<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
+	<img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" alt="WooCommerce" />
+	<img src="https://img.shields.io/badge/WP%20All%20Import-24292F" alt="WP All Import" />
+</p>
 
 [View code](https://github.com/rzarandona/wpai-avgi-addon)
 
 ### Personalized Book Builder & Publishing Workflow
 Contributed to a book-personalization application with character and name selection, PHP template processing, and third-party PDF generation. Developed a submissions dashboard and OneFlow API relay linking order details, generated PDFs, and shipping information to print-order submission.
 
-<img src="https://img.shields.io/badge/Vue.js-2-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
+<p>
+	<img src="https://img.shields.io/badge/Vue.js-2-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue.js" />
+	<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+	<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
+</p>
 
 [Book builder](https://github.com/rzarandona/be_brave_builder) · [Generation API](https://github.com/rzarandona/be_brave_api) · [Submissions dashboard](https://github.com/rzarandona/book-submissions-dashboard)
 
@@ -46,10 +50,12 @@ Building a desktop video mixer for small events, with Preview and Program
 switching, external fullscreen output, recording, streaming, audio mixing, and
 media ingest.
 
-<img src="https://img.shields.io/badge/Electron-39-47848F?logo=electron&logoColor=white" alt="Electron" />
-<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+<p>
+	<img src="https://img.shields.io/badge/Electron-39-47848F?logo=electron&logoColor=white" alt="Electron" />
+	<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+	<img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+</p>
 
 [View code](https://github.com/rzarandona/smix-pro)
 
@@ -58,10 +64,12 @@ Developed an event payroll and workforce platform with an admin web app and an
 offline-capable mobile app. Features include event phases, QR badge scanning,
 GPS capture, offline scan queues, employee management, and role-based access.
 
-<img src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Expo-54-000020?logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" alt="React Native" />
-<img src="https://img.shields.io/badge/Supabase-Postgres-3ECF8E?logo=supabase&logoColor=white" alt="Supabase and Postgres" />
+<p>
+	<img src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+	<img src="https://img.shields.io/badge/Expo-54-000020?logo=expo&logoColor=white" alt="Expo" />
+	<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" alt="React Native" />
+	<img src="https://img.shields.io/badge/Supabase-Postgres-3ECF8E?logo=supabase&logoColor=white" alt="Supabase and Postgres" />
+</p>
 
 [View code](https://github.com/rzarandona/etrack)
 
@@ -69,10 +77,12 @@ GPS capture, offline scan queues, employee management, and role-based access.
 Developing fail-closed Kanban workflow controls for Hermes, with an
 observe-only default mode and policy-gated activation.
 
-<img src="https://img.shields.io/badge/Python-3.11--3.13-3776AB?logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white" alt="Pydantic" />
-<img src="https://img.shields.io/badge/Cryptography-24292F" alt="Cryptography" />
+<p>
+	<img src="https://img.shields.io/badge/Python-3.11--3.13-3776AB?logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+	<img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white" alt="Pydantic" />
+	<img src="https://img.shields.io/badge/Cryptography-24292F" alt="Cryptography" />
+</p>
 
 [View code](https://github.com/rzarandona/hermes-plugin)
 
@@ -87,7 +97,7 @@ Designing and developing a Windows audio product for radio, live events, and the
 |---|---|
 | Web applications | PHP, JavaScript, TypeScript, Laravel, Vue.js, React, Next.js, Node.js, Express |
 | WordPress & commerce | WordPress, WooCommerce, Elementor, custom plugins/themes, subscriptions, APIs |
-| Data & backend | PostgreSQL, MySQL, SQLite, Redis, Rust, Axum, SQLx |
+| Data & backend | PostgreSQL, MySQL, SQLite, Redis, Python, Rust, Axum, SQLx |
 | Desktop & mobile | C++20, JUCE, React Native, Expo, VB.NET |
 | Delivery & operations | Git, Docker, Caddy, DigitalOcean, Vercel, GitHub Actions, Grafana |
 
