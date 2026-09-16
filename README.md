@@ -31,7 +31,7 @@ Developed an add-on connecting WP All Import with WooCommerce variation gallerie
 	<img src="https://img.shields.io/badge/WP%20All%20Import-24292F" alt="WP All Import" />
 </p>
 
-[View code](https://github.com/rzarandona/wpai-avgi-addon)
+[View Repo](https://github.com/rzarandona/wpai-avgi-addon)
 
 ### Personalized Book Builder & Publishing Workflow
 Contributed to a book-personalization application with character and name selection, PHP template processing, and third-party PDF generation. Developed a submissions dashboard and OneFlow API relay linking order details, generated PDFs, and shipping information to print-order submission.
@@ -57,7 +57,7 @@ media ingest.
 	<img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 </p>
 
-[View code](https://github.com/rzarandona/smix-pro)
+[View Repo](https://github.com/rzarandona/smix-pro)
 
 ### Etrack — Event Workforce & Attendance Application
 Developed an event payroll and workforce platform with an admin web app and an
@@ -71,7 +71,7 @@ GPS capture, offline scan queues, employee management, and role-based access.
 	<img src="https://img.shields.io/badge/Supabase-Postgres-3ECF8E?logo=supabase&logoColor=white" alt="Supabase and Postgres" />
 </p>
 
-[View code](https://github.com/rzarandona/etrack)
+[View Repo](https://github.com/rzarandona/etrack)
 
 ### Hermes Kanban Workflow Plugin
 Developing fail-closed Kanban workflow controls for Hermes, with an
@@ -84,12 +84,21 @@ observe-only default mode and policy-gated activation.
 	<img src="https://img.shields.io/badge/Cryptography-24292F" alt="Cryptography" />
 </p>
 
-[View code](https://github.com/rzarandona/hermes-plugin)
+[View Repo](https://github.com/rzarandona/hermes-plugin)
 
 ### CueCart — Founder & Software Engineer
 Designing and developing a Windows audio product for radio, live events, and theatre, together with its licensing/billing backend and customer website. Work includes audio playback, device activation, payment webhooks, and customer account flows.
 
-**C++20 · JUCE · Drogon · PostgreSQL · Next.js · TypeScript**
+<p>
+	<img src="https://img.shields.io/badge/C%2B%2B-20-00599C?logo=cplusplus&logoColor=white" alt="C++20" />
+	<img src="https://img.shields.io/badge/JUCE-framework-24292F" alt="JUCE" />
+	<img src="https://img.shields.io/badge/Drogon-web%20framework-24292F" alt="Drogon" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+	<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+[View Website](https://cuecart.app/)
 
 ## Technical toolkit
 
