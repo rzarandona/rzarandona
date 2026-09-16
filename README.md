@@ -7,7 +7,7 @@ I turn business requirements into working software, from WordPress plugins and P
 
 Based in **Panabo City, Philippines (UTC+8)**. Open to remote opportunities, with availability for US and European working hours.
 
-[LinkedIn](https://www.linkedin.com/in/rzarandona/) · [Public repositories](https://github.com/rzarandona?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/rzarandona/) · [Upwork profile](https://www.upwork.com/freelancers/~0151fe27a448927f5f?viewMode=1)
 
 ## What I bring
 
