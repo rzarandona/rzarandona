@@ -7,7 +7,7 @@ I turn business requirements into working software, from WordPress plugins and P
 
 Based in **Panabo City, Philippines (UTC+8)**. Open to remote opportunities, with availability for US and European working hours.
 
-[LinkedIn](https://www.linkedin.com/in/rzarandona/) · [Upwork profile](https://www.upwork.com/freelancers/~0151fe27a448927f5f?viewMode=1)
+**[Portfolio website ↗](https://rzarandona-portfolio.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/rzarandona/) · [Upwork profile](https://www.upwork.com/freelancers/~0151fe27a448927f5f?viewMode=1)
 
 ## What I bring
 
@@ -16,8 +16,8 @@ Based in **Panabo City, Philippines (UTC+8)**. Open to remote opportunities, wit
 - **Product ownership:** architecture, implementation, payment integrations, deployment, and support.
 - **Team leadership:** experience managing local and remote developers, hiring, mentoring, and coordinating client delivery.
 
-**Upwork:** Top Rated · 100% Job Success · $200K+ earned · 262 completed jobs · 8,947 hours  
-*Profile figures from September 2026.*
+**Upwork:** Top Rated · 100% Job Success · $200K+ earned · 262 completed jobs · 8,995 hours  
+*Profile figures from October 2026.*
 
 ## Selected work
 
@@ -131,4 +131,4 @@ Earlier experience includes web development, systems administration, technical s
 
 Available for remote full-stack, PHP/Laravel, and WordPress development opportunities. I can start immediately.
 
-[Contact me on LinkedIn](https://www.linkedin.com/in/rzarandona/)
+[See my portfolio](https://rzarandona-portfolio.vercel.app) · [Contact me on LinkedIn](https://www.linkedin.com/in/rzarandona/)
